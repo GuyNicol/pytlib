@@ -1,0 +1,13 @@
+=Fichier README du repository pylib
+:version: 1.0
+:dateMAJ: 2022-10-30
+:auteur: Guy Nicol
+----
+Ce repository sert pour mes propres besoins de documentation
+des diverses librairies python3 que j'utilise.
+
+Chacun des fichiers donne des exemples de diverses fonctions/
+méthodes qui m'ont semblées intéressantes.
+Ces fichiers ne sont ni exhaustifs, ni complets; ils ne représentent
+que ce qui m'a intéressé ou été utilie jusqu'à présent dans ses librairies.
+----
