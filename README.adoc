@@ -6,7 +6,7 @@
 Ce repository sert pour mes propres besoins de documentation
 des diverses librairies python3 que j'utilise.
 
-Ce repositry est local su mon poste.
+Ce repository est local sur mon poste.
 
 Chacun des fichiers donne des exemples de diverses fonctions/
 méthodes qui m'ont semblées intéressantes.
