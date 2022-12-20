@@ -1,8 +1,9 @@
-=Fichier README du repository pylib
+= Fichier README du repository pylib
 :version: 1.0
 :dateMAJ: 2022-12-20
 :auteur: Guy Nicol
 ----
+
 Ce repository sert pour mes propres besoins de documentation
 des diverses librairies python3 que j'utilise.
 
