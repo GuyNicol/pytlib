@@ -348,7 +348,7 @@ On voit dans l'exemple que des nombres réels sont aléatoirement générés à 
 
 '''
 === random.uniform(float a, float b)
-La méthode *uniform()* génère un nombre réel entre *a* et *b* inclusivement.
+La méthode *uniform()* génère un nombre réel entre *a* et *b* ##inclusivement##.
 
 .Exemple 1 d'utilisation de *uniform()* avec a \<= b
 ....
