@@ -126,6 +126,7 @@ générer des entiers compris entre *a* et *b-1*.
 L'utilisation de randrange() avec le 3e paramètre *c* permet de générer un intervalle
 espacé à l'intérieur des valeurs situées entre *a* et *b-1*.
 L'entier *b* n'est donc jamais généré par cette méthode.
+
 .Exemple d'utilisation de *randrange()* avec 2 paramètres
 ....
 >>> for i in range(1,101):
@@ -146,6 +147,7 @@ L'entier *b* n'est donc jamais généré par cette méthode.
 7       5       7       5       2       3       7       3       2       8
 >>> 
 ....
+
 *Exemple avec a=0 et b=10*
 
 On voit dans l'exemple que tous les nombres aléatoires générés se situent
