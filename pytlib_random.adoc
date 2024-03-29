@@ -125,7 +125,7 @@ La méthode *randrange(a, b)* ou la méthode *randrange(a, b, c)* permet de
 générer des entiers compris entre *a* et *b-1*.
 L'utilisation de randrange() avec le 3e paramètre *c* permet de générer un intervalle
 espacé à l'intérieur des valeurs situées entre *a* et *b-1*.
-L'entier *a* n'est donc jamais généré par cette méthode.
+L'entier *b* n'est donc jamais généré par cette méthode.
 .Exemple d'utilisation de *randrange()* avec 2 paramètres
 ....
 >>> for i in range(1,101):
